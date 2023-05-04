@@ -1,15 +1,12 @@
-!! TO USE !!
+| Made by crckturtle |
 
-Step 1: Ctrl+I or inspect element through wichever web browser you are yousing
-Step 2: Navigate to the console tab/secton of the window
-Step 3: Join a blooket game and wait for it to start
-Step 4: Paste entire script of sepcific hack into console input area
-Step 5: Get a problem correct or win an objective for hack to take full effect
+|| INFO ||
 
-!! INFO !!
+Most hacks are brought in from other repositories.
+However some are updated and revised by me.
 
-Tower Defense removed as it was no longer working.
+THE POINT OF THIS REPOSITORY IS TO GATHER ALL OF THE WORKING CHEATS NOT TO TAKE CREDIT FOR WORK
 
-!! SUPPORT !!
+|| CREDITS ||
 
-Please star this repo so that this gets to more people.
+I will soon give credit to all of the users here.
