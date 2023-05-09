@@ -2,11 +2,14 @@
 
 # INFO
 
-Most hacks are brought in from other repositories.
+Most cheats are brought in from other repositories.
 However some are updated and revised by me.
 
-THE POINT OF THIS REPOSITORY IS TO GATHER ALL OF THE WORKING CHEATS NOT TO TAKE CREDIT FOR WORK
+To use all of the cheats in this repo, copy the contents of a .js file-
+and paste it into the inspect element console in blooket.
 
 # CREDITS
 
-I will soon give credit to all of the users here.
+```@Glixzzy``` ```@Minesraft2```
+Many of the cheats in my repo started off as ports of their creations.
+They have been modified and updated independently.
