@@ -5,7 +5,7 @@
 Most cheats are brought in from other repositories.
 However some are updated and revised by me.
 
-To use all of the cheats in this repo, copy the contents of a .js file-
+To use all of the cheats in this repo, copy the contents of a ```.js``` file-
 and paste it into the inspect element console in blooket.
 
 # DOWNLOAD
