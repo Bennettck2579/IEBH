@@ -1,4 +1,4 @@
-|| HOW 2 USE ||
+# HOW TO USE
 
 Every folder has certain javascript files in them. The action they do is represented by their names. 
 None of them work with other gamemodes besides the one in which they are found.
@@ -10,3 +10,7 @@ Step 3: Open the inspect element tab within blooket (Ctrl + I for chrome, RMB + 
 Step 4: Navigate to the console portion of the inspect element tab
 Step 5: Paste the contents of the .js file into the console prompt.
 Step 6: Enjoy!
+
+# CREDITS
+
+Most of these cheats began as ports of cheats from ```@Glixzzy``` however they have been update and modified independently.
