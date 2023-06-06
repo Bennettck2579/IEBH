@@ -1,4 +1,4 @@
-# Made by crckturtle
+<p align =center>Made by crckturtle</p>
 
 # INFO
 
